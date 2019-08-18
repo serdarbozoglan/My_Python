@@ -1,1 +1,1 @@
-![alt text](https://https://github.com/serdarbozoglan/My_Python/File_System/picture1.png)
+![alt text](https://github.com/serdarbozoglan/My_Python/blob/master/File_System/picture1.png)
